@@ -302,6 +302,7 @@
 				B3936A8B16D1F6E200229757 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
