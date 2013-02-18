@@ -1,7 +1,7 @@
 /*****************************************************************************
  *
  * FILE:	main.m
- * DESCRIPTION:	Notes: The iPhone Application Primitive Main
+ * DESCRIPTION:	Recorder: The iPhone Application Primitive Main
  * DATE:	Mon, Jan 14 2013
  * UPDATED:	Mon, Jan 14 2013
  * AUTHOR:	Kouichi ABE (WALL) / 阿部康一
